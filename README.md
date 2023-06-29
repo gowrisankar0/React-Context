@@ -1,3 +1,18 @@
+<h1>Is this one of my react context  Project from my fullstack web Development journey</h1>
+#The application to build to store information about users 
+
+
+<h2>Home page given by user</h2>
+
+![Screenshot (55)](https://github.com/gowrisankar0/React-Context/assets/113678338/518952ac-d6d6-4410-88fd-a3b8e2bacabb)
+
+<h2>store the user information throughout the REACT-CONTEXT</h2>
+
+
+
+
+![Screenshot (56)](https://github.com/gowrisankar0/React-Context/assets/113678338/1843ce6a-db66-434a-b0ed-5f42683f6831)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
